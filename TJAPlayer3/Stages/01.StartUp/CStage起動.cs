@@ -88,11 +88,11 @@ namespace TJAPlayer3
 				{
 					this.list進行文字列.Add( "DTXManiaXG Ver.K powered by YAMAHA Silent Session Drums\n" );
 					this.list進行文字列.Add( "Product by.kairera0467\n" );
-					this.list進行文字列.Add( "Release: " + TJAPlayer3.VERSION + " [" + System.Reflection.Assembly.GetExecutingAssembly().GetName().Version.ToString() + "]" );
+					this.list進行文字列.Add( "Release: " + "1.0.0" + " [1.0.0.0]");
 
                     this.list進行文字列.Add("");
-                    this.list進行文字列.Add("TJAPlayer3 forked TJAPlayer2 forPC(kairera0467)");
-                    this.list進行文字列.Add("TJAPlayer3 edited by AioiLight(@aioilight)");
+                    this.list進行文字列.Add("NIJITaiko Forked Sirapixel");
+                    this.list進行文字列.Add("NIJITaiko edited by NIJITaiko Production Team(@nijitaiko)");
                     this.list進行文字列.Add("");
 
                     es = new CEnumSongs();
