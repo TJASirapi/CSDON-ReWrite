@@ -2424,7 +2424,6 @@ namespace TJAPlayer3
         public int[] Config_ItemText_Correction_XY = new int[] { 0, 0 };
         #endregion
         #region SongSelect
-        public int SongSelect_Overall_X= 123;
         public int SongSelect_Overall_Y = 123;
         public int[] SongSelect_NamePlate_X = new int[] { 60, 950 };
         public int[] SongSelect_NamePlate_Y = new int[] { 650, 650 };
